@@ -16,7 +16,7 @@ ARCHIVO_GRAFICA = "prediccion.png"
 
 
 def mostrar_menu():
-    print("\n===== MENÚ PRINCIPAL =====")
+    print("\n MENÚ PRINCIPAL ")
     print("1. Cargar datos desde archivo")
     print("2. Eliminar estudiante")
     print("3. Mayor nota de estudiante")
